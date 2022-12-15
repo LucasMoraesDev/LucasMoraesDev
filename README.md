@@ -2,7 +2,7 @@
 # Hi, I'm Lucas! 👋
 
 
-#### 🚀  I'm a full stack developer 
+### 🚀  I'm a full stack developer 
 ###
 
 
