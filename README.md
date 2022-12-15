@@ -9,8 +9,8 @@
 
 
 
-|  🛠 Skills| 
-| -- |  |  |
+|  | 🛠 Skills | |
+| -- | -- | -- |
 | SQL | Node | Express |
 | React | Redux | Tailwind |
 | HTML | CSS | JavaScript |
