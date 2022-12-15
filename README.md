@@ -3,22 +3,25 @@
 
 
 ## 🚀 About Me
-🧑‍💻 I'm a Front-End developer, and I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/)
+
+🧑‍💻 I'm a Web developer, and I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/)
 
 
 ## 💻 Tech Stack
 
-- **📝 Main Languages:** `Javascript`, `Typescript`
+- **⚡️ Main Languages:** `Javascript`
 
-- **✨ Front-End:** `ReactJs`, `HTML`, `CSS3`
+- **📡 Back-End:** `NodeJs`
+
+- **🎉 Front-End:** `ReactJs`, `HTML`, `CSS3`
 
 - **🎨 Layout Design**: `Figma`
 
-- **📦️ Version Code Control**: `Git`, `Github`
+- **🗃️ Version Code Control**: `Git`, `Github`
 
-- **🔧 Tools**: `VsCode`, `Markdown`
+- **🔨 Tools**: `VsCode`, `Markdown`
 
-- **🌐 Server:** `NodeJs`, `Express`
+
 
 
 ## 🔗 Contact
