@@ -3,12 +3,28 @@
 
 
 ## 🚀 About Me
-I'm a full stack developer
+I'm a Front-End developer, and I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/)
 
 
-## 🔗 Links
-[![github](https://img.shields.io/badge/my_repos-666?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/LucasMoraesDev?tab=repositories)
-[![portfolio](https://img.shields.io/badge/my_codepen-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codepen.io/lucasmoraesdev)
+## 💻 Tech Stack
+
+- **Main Languages:** `Javascript`, `Typescript`
+
+- **Front-End:** `ReactJs`, `HTML`, `CSS3`, `Javascript`
+
+- **Layout Design**: `Figma`
+
+- **Version Code Control**: `Git & Github`
+
+- **Tools**: `VsCode`, `Markdown`
+
+- **Server:** `NodeJs`, `Express`
+
+
+## 🔗 Contact
+[![email](https://img.shields.io/badge/my_email-A00?style=for-the-badge&logo=ko-fi&logoColor=white)](mailto:lms.262@gmail.com)
+[![github](https://img.shields.io/badge/my_repos-A66?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/LucasMoraesDev?tab=repositories)
+[![portfolio](https://img.shields.io/badge/my_codepen-005?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codepen.io/lucasmoraesdev)
 [![linkedin](https://img.shields.io/badge/my_linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasmoraesdev/)
 [![twitter](https://img.shields.io/badge/my_twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LucasMoraesDev)
 
