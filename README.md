@@ -10,15 +10,10 @@
 ## 💻 Tech Stack
 
 - **⚡️ Main Language:** `Javascript`
-
 - **📡 Back-End:** `NodeJs`
-
 - **🎉 Front-End:** `ReactJs`, `HTML`, `CSS3`
-
 - **🎨 Layout Design**: `Figma`
-
 - **🗃️ Version Code Control**: `Git`, `Github`
-
 - **🔨 Tools**: `VsCode`, `Markdown`
 
 
