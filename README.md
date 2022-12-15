@@ -9,7 +9,7 @@
 
 ## 💻 Tech Stack
 
-- **⚡️ Main Languages:** `Javascript`
+- **⚡️ Main Language:** `Javascript`
 
 - **📡 Back-End:** `NodeJs`
 
