@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-#### 🧑‍💻 I'm a **Web developer**, and I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/)
+#### 🧑‍💻  I'm a **Web developer**, and I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/)
 
 
 ## 💻 Tech Stack
