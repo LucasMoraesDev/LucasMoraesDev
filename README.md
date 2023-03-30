@@ -14,7 +14,7 @@
 - **🎉 Front-End:** `ReactJs`, `HTML`, `CSS3`
 - **🎨 Layout Design**: `Figma`
 - **🗃️ Version Code Control**: `Git`, `Github`
-- **🔨 Tools**: `Eclipse`,`VsCode`, `Markdown`
+- **🔨 Tools**: `Eclipse`, `VsCode`, `Markdown`
 
 
 
