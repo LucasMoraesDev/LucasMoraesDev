@@ -11,7 +11,7 @@
 
 - **⚡️ Main Languages:** `JAVA`, `Javascript`
 - **📡 Back-End:** `NodeJs`, `Express`
-- **🎉 Front-End:** `ReactJs`, `HTML`, `CSS3`
+- **🎉 Front-End:** `Angular`, `HTML`, `CSS3`
 - **🎨 Layout Design**: `Figma`
 - **🗃️ Version Code Control**: `Git`, `Github`
 - **🔨 Tools**: `Eclipse`, `VsCode`, `Markdown`
