@@ -9,12 +9,12 @@
 
 ## 💻 Tech Stack
 
-- **⚡️ Main Languages:** `JAVA`, `TypeScript`
+<!-- - **⚡️ Main Languages:** `JAVA`, `TypeScript`
 - **📡 Back-End:** `Spring Boot`
 - **🎉 Front-End:** `Angular`, `HTML`, `CSS3`
 - **🎨 Layout Design**: `Figma`
 - **🗃️ Version Code Control**: `Git`, `Github`
-- **🔨 Tools**: `Eclipse`, `VsCode`, `Markdown`
+- **🔨 Tools**: `Eclipse`, `VsCode`, `Markdown` -->
 |⚡️ Main Languages |📡 Back-End      |🎉 Front-End               |🎨 Layout Design |🗃️ Version Code Control |🔨 Tools                          |
 | -------------- | ------------ | ----------------------- | ------------- | ------------------- | ------------------------------ |
 | `JAVA`, `TypeScript` | `Spring Boot` | `Angular`, `HTML`, `CSS3` | `Figma` | `Git`, `Github` | `Eclipse`, `VsCode`, `Markdown` |
