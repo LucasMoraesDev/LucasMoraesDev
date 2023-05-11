@@ -10,7 +10,7 @@
 ## 💻 Tech Stack
 
 - **⚡️ Main Languages:** `JAVA`, `Javascript`
-- **📡 Back-End:** `NodeJs`, `Express`
+- **📡 Back-End:** `Spring Boot`
 - **🎉 Front-End:** `Angular`, `HTML`, `CSS3`
 - **🎨 Layout Design**: `Figma`
 - **🗃️ Version Code Control**: `Git`, `Github`
