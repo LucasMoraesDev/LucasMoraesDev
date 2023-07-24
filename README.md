@@ -16,7 +16,7 @@
 - **🗃️ Version Code Control**: `Git`, `Github`
 - **🔨 Tools**: `Visual Studio`, `Visual Studio Code`, `Notion` -->
 | ⚡️ Main Languages  | 📡 Back-End  | 🎉 Front-End  | 🎨 Layout Design  |  🗃️ Version Code Control  | 🔨 Tools  |
-| ------------------ | ---------------- | ----=========---------- | --------- | --------------- | ----------------------- |
+| ------------------ | ---------------- | ------------------------- | --------- | --------------- | ----------------------- |
 | `C#`, `TypeScript` | `ASP.NET`, `MVC` | `Angular`, `HTML`, `CSS3` | `Figma` | `Git`, `Github` | `Visual Studio`, `VSCode`, `Notion` |
 
 
