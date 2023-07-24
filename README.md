@@ -9,15 +9,15 @@
 
 ## 💻 Tech Stack
 
-<!-- - **⚡️ Main Languages:** `JAVA`, `TypeScript`
-- **📡 Back-End:** `Spring Boot`
+<!-- - **⚡️ Main Languages:** `C#`, `TypeScript`
+- **📡 Back-End:** `ASP.NET MVC`
 - **🎉 Front-End:** `Angular`, `HTML`, `CSS3`
 - **🎨 Layout Design**: `Figma`
 - **🗃️ Version Code Control**: `Git`, `Github`
-- **🔨 Tools**: `Eclipse`, `VsCode`, `Markdown` -->
+- **🔨 Tools**: `Visual Studio`, `Visual Studio Code`, `Notion` -->
 |⚡️ Main Languages |📡 Back-End |🎉 Front-End |🎨 Layout Design |🗃️ Version Code Control |🔨 Tools |
 | ------------------ | ----------- | ------------ | ----------------- | ----------------------- | --------- |
-| `JAVA`, `TypeScript` | `SpringBoot`, `SpringMVC` | `Angular`, `HTML`, `CSS3` | `Figma` | `Git`, `Github` | `Eclipse`, `VsCode`, `Markdown` |
+| `C#`, `TypeScript` | `ASP.NET MVC` | `Angular`, `HTML`, `CSS3` | `Figma` | `Git`, `Github` | `Visual Studio`, `Visual Studio Code`, `Notion` |
 
 
 
