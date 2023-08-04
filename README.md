@@ -17,7 +17,7 @@
 - **🔨 Tools**: `Visual Studio`, `Visual Studio Code`, `Notion` -->
 | ⚡️ Main Languages  | 📡 Back-End  | 🎉 Front-End  | 🎨 Layout Design  |  🗃️ Version Code Control  | 🔨 Tools  |
 | ------------------ | ---------------- | ------------------------- | --------- | --------------- | ----------------------- |
-| `C#`, `TypeScript` | `ASP.NET`, `MVC`, `API` | `Angular`, `HTML`, `CSS3` | `Figma` | `Git`, `Github` | `Visual Studio`, `VSCode` |
+| `C#`, `TypeScript` | `ASP.NET`, `MVC`, `API` | `Angular`, `HTML`, `CSS3` | `Figma` | `Git`, `Github` | `Visual Studio`, `VSCode`, `Postman` |
 
 
 
